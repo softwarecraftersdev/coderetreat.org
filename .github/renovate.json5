@@ -4,5 +4,6 @@
   "dependencyDashboard": true,
   "automerge": true,
   "automergeType": "branch",
-  "ignoreDeps": ["pixi.js", "jekyll", "react-bootstrap-typeahead", "bootstrap"]
+  "commitMessageExtra": "to {{#if isPinDigest}}{{{newDigestShort}}}{{else}}{{#if isMajor}}{{prettyNewMajor}}{{else}}{{#if isSingleVersion}}{{prettyNewVersion}}{{else}}{{#if newValue}}{{{newValue}}}{{else}}{{{newDigestShort}}}{{/if}}{{/if}}{{/if}}{{/if}} [skip netlify]",
+  "ignoreDeps": ["pixi.js", "pixi-viewport", "jekyll", "react-bootstrap-typeahead", "bootstrap"]
 }

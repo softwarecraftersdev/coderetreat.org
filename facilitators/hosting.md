@@ -19,7 +19,7 @@ Facilitation is everything from explaining the format, responding to questions a
 
 Hosting means making sure that everyone has the resources they need to get through the day. From power plugs to the right lunch order, a host makes sure that the facilitator can focus on their moderation and the attendees can focus on their learning.
 
-We're focussing on hosting duties in this guide. Head over to the [facilitation guide]({% link facilitators/facilitation.md %}) for more information on the role of the facilitator.
+We're focussing on hosting duties in this guide. Head over to the [facilitation guide]({% link facilitators/facilitating.md %}) for more information on the role of the facilitator.
 
 <div class="advice" markdown="1">
 If you can't find a second person to co-organize, it is highly adviced to keep the number of attendees low, less than 10. Make sure to not exhaust yourself, but rather focus on the necessities required to make the day work. You can appeal to your attendees to help you make the event worthwhile and sustainable.
@@ -143,7 +143,7 @@ The host is responsible for a number of activities on the Global Day of the Code
 
 * Coordinate video conferences with other locations
 * Take pictures of the event or record a short video (please ask for consent first!)
-* Post updates to Twitter using our hosting tool
+* Post updates to Social Media using our hosting tool
 
 This is really important: **_Participation in global events and activities is entirely optional_**. Keep it simple, and only do what you know you can do well. If you feel overwhelmed, then don’t feel like you need to do that extra thing someone suggested here.
 
